@@ -1,4 +1,4 @@
-# Simple Notes App for AWS Cloud Community
+# Simple Notes App for AWS Community
 This is a simple notes app built with React and Django.
 
 ## Requirements
